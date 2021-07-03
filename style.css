@@ -1,0 +1,47 @@
+body{
+    padding: 0px  20px 20px 20px ;
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color:#FFF5FD;
+    border: 3px solid rgb(143, 17, 115);
+
+}
+.main-head{
+    font-size: 3rem;
+}
+
+.img-profile{
+     border: 1px solid gray;
+}
+table, th, tr, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  
+}
+table{
+    width: 100%;
+}
+h1,h2,h3,h4,h5{
+    font-size: 1.5rem;
+    color:rgb(226, 4, 4);
+    font-family: 'Abhaya Libre', serif;
+}
+span, p ,th,td,li{
+    color: black;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+#idsig
+{
+    font-size: 23px;
+    font-weight: bold;
+    text-align: right;
+    font-family: 'Montserrat', sans-serif;
+   
+}
+img{
+    display: inline;
+}
